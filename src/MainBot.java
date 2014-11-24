@@ -52,7 +52,7 @@ public class MainBot extends PircBot {
             sendMessage(channel, "༼ つ◕_◕༽つ" + riot + "or Riot ༼ つ◕_◕༽つ");
         }
         if (message.equalsIgnoreCase("!mod")) {
-            if (sender == "k1llerk4se") {
+            if (sender.equals("k1llerk4se")) {
                 String name;
                 name = message.split(" ")[1];
                 testSql(name);
