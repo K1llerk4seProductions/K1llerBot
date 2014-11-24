@@ -1,0 +1,5 @@
+CREATE DEFINER=`k1llerk4se`@`localhost` PROCEDURE `test_for_user`(in con varchar(45), out rubix int)
+BEGIN
+	SELECT user FROM admins.users where user = 'con';
+    set rubix = 1;
+END

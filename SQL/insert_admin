@@ -1,0 +1,6 @@
+CREATE DEFINER=`k1llerk4se`@`localhost` PROCEDURE `insert_admin`(in con varchar(45))
+BEGIN
+	insert into admins
+    (username)
+    values ('con');
+END
