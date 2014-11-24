@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Pircbot">
+    <CLASSES>
+      <root url="file://E:/Workspace/lib/Pircbot" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://E:/Workspace/lib/Pircbot/javadocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://E:/Workspace/lib/Pircbot" />
+    </SOURCES>
+    <jarDirectory url="file://E:/Workspace/lib/Pircbot" recursive="false" />
+    <jarDirectory url="file://E:/Workspace/lib/Pircbot" recursive="false" type="SOURCES" />
+  </library>
+</component>
